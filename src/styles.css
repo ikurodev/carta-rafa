@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  position: relative;
+}
+
+.card {
+  background-color: blueviolet;
+  width: 20%;
+  height: auto;
+  padding: 20px;
+  position: absolute;
+}
